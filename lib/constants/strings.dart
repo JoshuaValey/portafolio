@@ -1,0 +1,1 @@
+const cMmainMessage = '¡Hola!\nSoy Joshua Váley\nme apasiona el desarrollo de software,\nla tecnología y el café. 👀';

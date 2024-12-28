@@ -11,7 +11,7 @@ class SiteLogo extends StatelessWidget {
     return InkWell(
       onTap: onTap,
       child: const Text(
-        'JR',
+        'jrValey',
         style: TextStyle(
             color: CustomColor.yellowSecondary,
             fontSize: 20,
